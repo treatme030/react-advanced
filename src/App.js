@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './useState/setup/UseStateBasics';
+import Setup from './useState/setup/UseStateArray';
 
 function App() {
   return (
