@@ -1,8 +1,11 @@
 import './App.css';
+import Setup from './useState/setup/UseStateBasics';
 
 function App() {
   return (
-      <h2>advanced react tutorial</h2>
+    <div className="container">
+        <Setup/>
+    </div>
   );
 }
 
