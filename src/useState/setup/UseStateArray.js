@@ -5,8 +5,11 @@ const UseStateArray = () => {
     const [people, setPeople] = useState(data)
 
     const removeItem = (id) => {
-        let newPeople = people.filter(person => person.id !== id)
-        setPeople(newPeople)
+        //setValue((prevState) => prevState + 1) 이전 상태값을 새로운 상태값으로 변경하는 방식
+        setPeople((oldPeople) => {
+            let newPeople = oldPeople.filter(person => person.id !== id)
+            return newPeople
+        })
     }
     return (
         <>
