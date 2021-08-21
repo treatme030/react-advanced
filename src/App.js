@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './prop-drilling/PropDrilling';
+import Setup from './useContext/ContextApi';
 
 function App() {
   return (
