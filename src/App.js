@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './conditional-rendering/ShortCircuit';
+import Setup from './conditional-rendering/ShowHide';
 
 function App() {
   return (
