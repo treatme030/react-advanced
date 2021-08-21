@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './useRef/UseRefBasics';
+import Setup from './useReducer/Index';
 
 function App() {
   return (
