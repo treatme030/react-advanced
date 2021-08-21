@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './conditional-rendering/ShowHide';
+import Setup from './forms/ControlledInputs';
 
 function App() {
   return (
