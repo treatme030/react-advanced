@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './forms/ControlledInputs';
+import Setup from './forms/MultipleInputs';
 
 function App() {
   return (
