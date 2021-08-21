@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './useReducer/Index';
+import Setup from './prop-drilling/PropDrilling';
 
 function App() {
   return (
