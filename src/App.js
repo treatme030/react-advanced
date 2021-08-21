@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './useEffect/MultipleReturns';
+import Setup from './conditional-rendering/ShortCircuit';
 
 function App() {
   return (
