@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './useState/setup/UseStateArray';
+import Setup from './useEffect/UseEffectBasics';
 
 function App() {
   return (
