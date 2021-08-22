@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './custom-hooks/FetchExample';
+import Setup from './prop-types/Index';
 
 function App() {
   return (
