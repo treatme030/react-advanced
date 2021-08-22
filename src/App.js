@@ -1,5 +1,5 @@
 import './App.css';
-import Setup from './prop-types/Index';
+import Setup from './react-router/setup';
 
 function App() {
   return (
